@@ -15,10 +15,9 @@ pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
         }
         index += 1;
     }
-    vec![0,0]
+    vec![0, 0]
 }
 
 fn main() {
     println!("====> main");
 }
-
